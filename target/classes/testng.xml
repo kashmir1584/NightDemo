@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LinkedIn login test">
+
+	<test name="LoginTest">
+		<classes>
+	 		<class name="testpagemodel.ConnectionsPageTest"></class> 
+	<!-- 			<class name="testpagemodel.JobPageTest"></class> -->
+<!-- 	<class name="testpagemodel.LoginPageTest"></class>       -->
+		</classes>
+	</test>
+</suite>
